@@ -1,4 +1,8 @@
 🎮 Tic Tac Toe (React)
+<img width="1915" height="928" alt="Screenshot 2025-09-24 130722" src="https://github.com/user-attachments/assets/b340d858-dd6f-4641-be0d-d39f68085940" />
+<img width="1919" height="928" alt="Screenshot 2025-09-24 130736" src="https://github.com/user-attachments/assets/9bad374c-0486-4ddb-ac25-473f4e1aaf0f" />
+
+
 
 A fun and interactive Tic Tac Toe game built using React.js.
 This project comes with a simple UI, dynamic gameplay, and a unique twist where older moves vanish once a new one is placed after 3 active marks.
